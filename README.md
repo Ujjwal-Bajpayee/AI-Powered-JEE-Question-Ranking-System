@@ -56,7 +56,7 @@ This system employs four specialized AI agents to analyze and rank JEE questions
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ujjwal-Bajpayee/AI-Powered-JEE-Question-Ranking-System.git>
    cd JEE
    ```
 
@@ -95,7 +95,7 @@ This launches a user-friendly web interface where you can:
 #### 🤖 AI Analysis Process
 - Real-time progress tracking
 - Step-by-step analysis updates
-- 1-2 minute analysis time
+- 15-30 Seconds analysis time
 - Detailed explanations for TOP 3 selections
 
 #### 📊 Results & Insights
