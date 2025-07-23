@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question_text": "A block of mass 2 kg slides down a frictionless inclined plane of angle 30°. Find the acceleration of the block and the normal force acting on it.",
+    "topic": "Mechanics",
+    "tags": ["kinematics", "Newton's laws", "inclined plane"],
+    "bloom_level": "Apply"
+  },
+  {
+    "id": 2,
+    "question_text": "In a photoelectric effect experiment, the stopping potential for light of wavelength 400 nm is 1.5 V. Calculate the work function of the metal and the threshold wavelength.",
+    "topic": "Modern Physics",
+    "tags": ["photoelectric effect", "quantum mechanics", "work function"],
+    "bloom_level": "Analyze"
+  },
+  {
+    "id": 3,
+    "question_text": "A conducting rod of length 0.5 m moves with velocity 10 m/s perpendicular to a uniform magnetic field of 0.2 T. Calculate the induced EMF.",
+    "topic": "Electromagnetism",
+    "tags": ["electromagnetic induction", "Faraday's law", "motional EMF"],
+    "bloom_level": "Apply"
+  },
+  {
+    "id": 4,
+    "question_text": "Two point charges +q and -2q are placed at distance 'd' apart. Find the position where the electric field is zero along the line joining the charges.",
+    "topic": "Electrostatics",
+    "tags": ["electric field", "superposition", "point charges"],
+    "bloom_level": "Analyze"
+  },
+  {
+    "id": 5,
+    "question_text": "A particle performs simple harmonic motion with amplitude A and time period T. Derive the expression for velocity and acceleration at any position x.",
+    "topic": "Oscillations",
+    "tags": ["SHM", "kinematics", "derivatives"],
+    "bloom_level": "Create"
+  },
+  {
+    "id": 6,
+    "question_text": "Water flows through a horizontal pipe of varying cross-section. If the velocity at section 1 is 2 m/s and area is 0.1 m², find the velocity at section 2 where area is 0.05 m².",
+    "topic": "Fluid Mechanics",
+    "tags": ["continuity equation", "fluid flow"],
+    "bloom_level": "Apply"
+  },
+  {
+    "id": 7,
+    "question_text": "A heat engine operates between two reservoirs at temperatures 500 K and 300 K. If it absorbs 1000 J from the hot reservoir, find the maximum work output and efficiency.",
+    "topic": "Thermodynamics",
+    "tags": ["Carnot cycle", "efficiency", "heat engines"],
+    "bloom_level": "Analyze"
+  },
+  {
+    "id": 8,
+    "question_text": "Light travels from air to glass with refractive index 1.5. If the angle of incidence is 45°, calculate the angle of refraction and the critical angle for total internal reflection.",
+    "topic": "Optics",
+    "tags": ["Snell's law", "refraction", "total internal reflection"],
+    "bloom_level": "Apply"
+  },
+  {
+    "id": 9,
+    "question_text": "A parallel plate capacitor with plate separation 2 mm is connected to a 12 V battery. A dielectric slab of dielectric constant 3 and thickness 1 mm is inserted. Calculate the change in electric field and energy stored.",
+    "topic": "Electrostatics",
+    "tags": ["capacitors", "dielectrics", "energy storage"],
+    "bloom_level": "Analyze"
+  },
+  {
+    "id": 10,
+    "question_text": "In a double-slit experiment, the distance between slits is 0.5 mm and screen distance is 2 m. If the wavelength of light is 600 nm, find the fringe width and position of 5th bright fringe.",
+    "topic": "Wave Optics",
+    "tags": ["interference", "Young's double slit", "fringe width"],
+    "bloom_level": "Apply"
+  }
+]
